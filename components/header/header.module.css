@@ -1,0 +1,27 @@
+.header {
+  background-color: #002984;
+}
+
+.button {
+  margin-left: auto;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.circle {
+  background: red;
+  border-radius: 50%;
+  width: 25px;
+  position: relative;
+  height: 25px;
+  bottom: 15px;
+  right: 7px;
+  color: white;
+}

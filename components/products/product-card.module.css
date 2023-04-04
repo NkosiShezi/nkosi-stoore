@@ -1,0 +1,11 @@
+.card {
+  max-width: 280;
+  margin: "0 auto";
+  padding: "0.1em";
+  display: flex;
+  flex-direction: column;
+}
+
+.cardActions {
+  margin-top: auto;
+}
